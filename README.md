@@ -1,6 +1,6 @@
-# Port-Scanner: Multithreaded Network Port Scanner 🛡️
+# PyScanner: Multithreaded Network Port Scanner 🛡️
 
-Port-Scanner is a fast, efficient, and lightweight Python tool designed to scan a target IP address for common open ports. This tool is built for cybersecurity enthusiasts and ethical hackers to assist in the initial phases of network reconnaissance.
+PyScanner is a fast, efficient, and lightweight Python tool designed to scan a target IP address for common open ports. This tool is built for cybersecurity enthusiasts and ethical hackers to assist in the initial phases of network reconnaissance.
 
 
 
@@ -20,7 +20,7 @@ Port-Scanner is a fast, efficient, and lightweight Python tool designed to scan 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/PyScanner.git]
-   cd PyScanner
+   cd port-scanner
 Run the tool:
 
 Bash
