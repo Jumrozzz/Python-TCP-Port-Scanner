@@ -20,7 +20,7 @@ PyScanner is a fast, efficient, and lightweight Python tool designed to scan a t
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Jumrozzz/Python-TCP-Port-Scanner.git
-   cd port-scanner
+   cd port_scanner
 Run the tool:
 
 Bash
